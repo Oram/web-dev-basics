@@ -1,0 +1,17 @@
+#special {
+    background-color: crimson;
+    color: #fff;
+    text-transform: capitalize;
+    margin: 10px 0;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+a {
+    text-decoration-line: overline;
+    font-size: 18px;
+}
+
+div {
+    margin-bottom: 7px;
+}
